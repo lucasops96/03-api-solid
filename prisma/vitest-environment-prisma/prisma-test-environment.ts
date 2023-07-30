@@ -7,7 +7,7 @@ export default <Environment> {
         
         return {
             async teardown(){
-                console.log('Teardown.')
+                console.log('Teardown')
             },
         }
     }
